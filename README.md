@@ -1,5 +1,7 @@
 # httpplus
-an expansion to classic http codes to address issues occurring in layer 8
+an expansion to classic http codes to address issues occurring in layer 8 written in go
+
+check it out: https://httpplus.fireheart.dev
 
 | Code                                          | Error                           | Desc                                                               | Cat?                                                  |
 | --------------------------------------------- | ------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- |
