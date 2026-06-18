@@ -5,7 +5,7 @@ check it out: https://httpplus.fireheart.dev
 
 | Code                                          | Error                           | Desc                                                               | Cat?                                                  |
 | --------------------------------------------- | ------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- |
-| [**600**](https://httpplus.fireheart.dev/600) | Skill Issue                     | RTFM                                                               | in progress                                           |
+| [**600**](https://httpplus.fireheart.dev/600) | Skill Issue                     | RTFM                                                               | [yes](https://httpplus.fireheart.dev/cat/600)         |
 | [**601**](https://httpplus.fireheart.dev/601) | Vibe Check Failed               | The server was asked nicely and said no                            | no                                                    |
 | [**602**](https://httpplus.fireheart.dev/602) | Insufficient Braincells         | Client allocated insufficient cognitive ressources to this request | [yes](https://httpplus.fireheart.dev/cat/602)         |
 | [**603**](https://httpplus.fireheart.dev/603) | Touch Grass                     | Oxygen intake recommended                                          | [yes](https://httpplus.fireheart.dev/cat/603)         |
